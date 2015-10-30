@@ -35,7 +35,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 from decimal import Decimal
 import logging
 import urllib
-import urllib2
 import copy
 
 try:
